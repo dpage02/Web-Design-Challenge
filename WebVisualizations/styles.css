@@ -1,6 +1,6 @@
 /* style for body */
 body{
-  background-color: rgb(194, 194, 194);
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEJoZ33e7mv7K8sSEig2n4jcobFeuFtMSqPQ&usqp=CAU");
 }
 
 /* style for header/navbar */
@@ -24,18 +24,20 @@ body{
   height: auto;
   padding: 25px,30px, 10px;
   color: #fff;
-  background: deepskyblue;
+  background: forestgreen;
   text-align: justify;
   font-size: x-large;
-  font-style: oblique;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
 .box p{
   padding-left: 10px;
   padding-right: 10px;
+  font-weight: lighter;
 }
 
 .box h2{
+  padding-top: 10px;
   text-align: center;
 }
 
@@ -54,6 +56,7 @@ body{
   background: deepskyblue;
   text-align: center;
   padding-top: 0px;
+  padding-bottom: auto;
 }
 .box2 .row{
   padding-bottom: 40px;
